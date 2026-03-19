@@ -2,9 +2,6 @@
 import About from "./components/About"
 
 
-arr.forEach(element => {
-  
-});
 
 const App = () => {
   
